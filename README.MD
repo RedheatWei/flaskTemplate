@@ -25,6 +25,7 @@
 - `views` 包含用于其他函数调用的方法，比如说登录验证等
 
 ##### 启动
-- `cd github/flaskTemplate`
+- `git clone https://github.com/RedheatWei/flaskTemplate.git`
+- `cd flaskTemplate`
 - `export FLASK_APP=flaskTemplate`
 - `flask run`
